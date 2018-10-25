@@ -1,0 +1,10 @@
+body{
+	margin: 14%
+}
+h1 { text-align: center; }
+h3 { text-align: center; }
+h4 { text-align: center; }
+.underl { text-decoration: underline;}
+.slim { float: left;
+        margin: 0% 2% 0% 0%}
+.marger2 { margin: 0% 0% 0% 25%}
